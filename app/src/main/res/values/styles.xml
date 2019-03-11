@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="BigButton">
+        <item name="android:layout_marginStart">@dimen/lateral_margin</item>
+        <item name="android:layout_marginEnd">@dimen/lateral_margin</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="BigButtonEnabled" parent="BigButton">
+        <item name="android:background">@drawable/enabled_button</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="BigButtonDisabled" parent="BigButton">
+        <item name="android:background">@drawable/disabled_button</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+</resources>

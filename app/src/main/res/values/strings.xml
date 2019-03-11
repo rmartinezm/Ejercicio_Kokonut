@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ejercicio Kokonut</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo elctrónico</string>
+    <string name="password_length_error">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="email_error">Introduce un correo válido</string>
+    <string name="empty_error">Todos los campos son obligatorios</string>
+    <string name="password_space_error">La contraseña no puede tener espacios en blanco</string>
+    <string name="log_in_error">Ocurrió un problema al intentar iniciar sesión, inténtalo nuevamente</string>
+    <string name="access_token">ACCESS_TOKEN</string>
+    <string name="list">Lista</string>
+    <string name="profile">Perfil</string>
+    <string name="articles">Artículos</string>
+    <string name="added_to_favorite">¡Agregado a favoritos!</string>
+    <string name="removed_from_favorite">Ya no es favorito</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fringilla accumsan accumsan. Cras posuere eu sem vitae sodales.
+        Pellentesque risus sem, pharetra at tincidunt non, pretium id metus. Integer varius blandit tincidunt. Aliquam id enim metus.
+        Vestibulum vel tortor sit amet arcu porttitor viverra a a nibh. Vestibulum sagittis nisi eget rhoncus viverra. Vestibulum sed scelerisque purus.
+        Duis hendrerit molestie nisl, aliquam posuere est ultricies non. Nam erat mi, sollicitudin eu odio a, tincidunt dignissim turpis.
+        Nulla dignissim tempus purus, eget lacinia elit vehicula vel.
+    </string>
+</resources>
